@@ -30,7 +30,7 @@ Solana is fast. But trading on it can be messy — multiple tabs, scattered tool
 
 ## 📈 Traction
 
-- 7,000+ weekly active users
+- 7,000+ monthly active users
 - Raising through Star.fun
 
 ---
